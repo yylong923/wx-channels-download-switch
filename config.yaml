@@ -47,7 +47,7 @@ proxy:
   tcpRelay:
     enabled: false
     hostname: "127.0.0.1"
-  port: 9900
+    port: 9900
   tun: false
   defaultInterface: ""
   skipInstallRootCert: false
